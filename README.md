@@ -36,8 +36,8 @@ Thanks for visiting my profile! Feel free to explore my repositories, open issue
 
 ## 🏆 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicole020301&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ## 🌱 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&langs_count=10&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicole020301&langs_count=10&layout=compact&theme=radical)
