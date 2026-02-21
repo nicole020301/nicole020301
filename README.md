@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub profile! I’m a passionate Web XR Developer and Blockchain Developer. I'm always exploring new technologies and frameworks to improve my skills and build innovative solutions.<br><br>Technologies & Tools<br><br>Web Development<br>- 🌐 Frontend: HTML, CSS, JavaScript, React, Vue.js, Angular<br>- 🖥️ Backend: Node.js, Express, Django, Flask<br>- 🗄️ Databases: MongoDB, PostgreSQL, MySQL, SQLite<br>- 🛠️ Tools: Git, Docker, Webpack, Babel, Nginx<br><br>Blockchain Development<br>- 🔗 Smart Contracts: Solidity, Ethereum, Binance Smart Chain (BSC)<br>- 🛠️ Tools: Truffle, Hardhat, Web3.js, ethers.js<br>- 🔒 Protocols: DeFi, NFTs, DAO<br>- 🔒 Wallet Integration: MetaMask, WalletConnect<br>
+Welcome to my GitHub profile! I’m a passionate Web XR Developer and Blockchain Developer. I'm always exploring new technologies and frameworks to improve my skills and build innovative solutions.<br><br>Technologies & Tools<br><br>Web Development<br>- 🌐 Frontend: HTML, CSS, JavaScript, React<br>- 🖥️ Backend: Node.js<br>- 🗄️ Databases: MySQL<br>- 🛠️ Tools: Git, Webpack<br><br>Blockchain Development<br>- 🔗 Smart Contracts: Solidity, Ethereum<br>- 🛠️ Tools:Web3.js<br>- 🔒 Protocols: DeFi, NFTs, DAO<br>- 🔒 Wallet Integration: MetaMask<br>
 
 
 ## 🌐 Socials:
